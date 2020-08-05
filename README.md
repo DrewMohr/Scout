@@ -9,12 +9,8 @@ While in console, type:
 
 **pi@Scout:~ $** cd Scout
 
-**pi@Scout:~/Scout $**
-
 **pi@Scout:~/Scout $** git fetch origin
 
 **pi@Scout:~/Scout $** git merge origin/*branch name that you want to merge*
-
-**pi@Scout:~/Scout $**
 
 All set!
