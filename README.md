@@ -15,6 +15,6 @@ While in console, type:
 
 **pi@Scout:~/Scout $** git merge origin/*branch name that you want to merge*
 
-**pi@Scout:~/Scout $ **
+**pi@Scout:~/Scout $**
 
 All set!
